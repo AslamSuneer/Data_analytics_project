@@ -1,1 +1,25 @@
+Ham Messages (Non-Spam)
+
+Reminder: Your meeting is scheduled for tomorrow at 10 AM.
+Can you please call me back when you're free?
+Are we still on for dinner tonight at 7?
+I’ll pick you up from the station at 5 PM.
+Just checking in to see how you’re doing. Let me know if you need anything!
+Don’t forget to bring the documents to the office tomorrow.
+Hey! Can we reschedule our gym session for next Monday?
+Happy Birthday! Hope you have a fantastic day filled with joy!
+I'll be out of the office until next Wednesday, but feel free to email me.
+Let’s catch up this weekend if you’re available.
+
+
+Spam Messages
+
+Congratulations! You have won a $1,000 gift card! Click here to claim your prize now!
+You have been selected for a free trip to the Bahamas. Call us at 1-800-555-WIN to claim.
+Get rich quick! Make $10,000 a week from home with no experience needed!
+You've won a free iPhone! Enter your details at this link to receive your prize.
+URGENT: Your account has been compromised. Click here to reset your password immediately.
+Limited-time offer! Buy one, get one free on all luxury watches! Act now!
+Congratulations! You are the lucky winner of our $5,000 cash giveaway. Reply to this email to claim.
+Get your personal loan approved with no credit check! Apply now to get up to $50,000.
 
