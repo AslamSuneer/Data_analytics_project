@@ -9,7 +9,7 @@ This folder contains fundamental files used in the initial stages of the project
 *spamdetectionNPL.ipynb – Notebook focused on spam detection using Natural Language Processing (NLP).                                                                                                                 
 *README.md – Documentation file explaining the contents of the folder.
 
-🔹 2. Updated Version Folder (updated_version/)
+🔹 2. Updated Version Folder (updated_version/):-
 Contains improved versions of scripts, models, and applications.
 
 *Email_Spam_Detection.ipynb – Updated notebook with refined spam detection methods.                                                                                                                                   
@@ -20,9 +20,9 @@ Contains improved versions of scripts, models, and applications.
 *checking.txt.txt – Possibly a log or test file.                                                                                                                                                                      
 *requirements.txt – Dependencies required to run the updated version.
 
-🔹 3. Jupyter Notebook Checkpoints (.ipynb_checkpoints/)
+🔹 3. Jupyter Notebook Checkpoints (.ipynb_checkpoints/):-
 Auto-saved backup versions of Jupyter notebooks, including:
 
-*email_spam-checkpoint.ipynb
-*spamdetectionNPL-checkpoint.ipynb
+*email_spam-checkpoint.ipynb                                                                                                                                                                                          
+*spamdetectionNPL-checkpoint.ipynb                                                                                                                                                                                    
 *spam_detection_NPL-checkpoint.ipynb
