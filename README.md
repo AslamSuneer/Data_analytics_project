@@ -12,12 +12,12 @@ This folder contains fundamental files used in the initial stages of the project
 🔹 2. Updated Version Folder (updated_version/)
 Contains improved versions of scripts, models, and applications.
 
-*Email_Spam_Detection.ipynb – Updated notebook with refined spam detection methods.
-*model.pkl – Trained machine learning model (serialized using Pickle).
-*vectorizer.pkl – Pickled text vectorizer (e.g., TF-IDF or CountVectorizer).
-*spam.csv – A preprocessed version of the email dataset.
-*DetectionApp/ – A possible application (e.g., Flask, Streamlit) for real-time spam detection.
-*checking.txt.txt – Possibly a log or test file.
+*Email_Spam_Detection.ipynb – Updated notebook with refined spam detection methods.                                                                                                                                   
+*model.pkl – Trained machine learning model (serialized using Pickle).                                                                                                                                                
+*vectorizer.pkl – Pickled text vectorizer (e.g., TF-IDF or CountVectorizer).                                                                                                                                                
+*spam.csv – A preprocessed version of the email dataset.                                                                                                                                                               
+*DetectionApp/ – A possible application (e.g., Flask, Streamlit) for real-time spam detection.                                                                                                                        
+*checking.txt.txt – Possibly a log or test file.                                                                                                                                                                      
 *requirements.txt – Dependencies required to run the updated version.
 
 🔹 3. Jupyter Notebook Checkpoints (.ipynb_checkpoints/)
