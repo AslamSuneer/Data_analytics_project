@@ -3,7 +3,7 @@
 🔹 1. Basics Folder (basics/):-
 This folder contains fundamental files used in the initial stages of the project.
 
-*email_spam.ipynb – A Jupyter Notebook implementing spam detection.
+*email_spam.ipynb – A Jupyter Notebook implementing spam detection.                                                                                                                                                                  
 *mail_data.csv – A dataset containing email data for spam classification.
 *Spam Email raw text for NLP.csv – Raw text emails for NLP-based spam filtering.
 *spamdetectionNPL.ipynb – Notebook focused on spam detection using Natural Language Processing (NLP).
